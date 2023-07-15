@@ -1,4 +1,4 @@
-# DinHeiro - A modern trading bank website
+# DinHeiro - A modern frontend bank website
 Dinheiro means money in portugese
 Key points :
 it is a simple frontend landing page.
@@ -8,5 +8,5 @@ it is a simple frontend landing page.
 Deployed on : Netlify
 Link to website : https://dinheiro.netlify.app
 
-![Uploading Screenshot 2023-07-15 at 10.53.38 PM.png…]()
+
 
